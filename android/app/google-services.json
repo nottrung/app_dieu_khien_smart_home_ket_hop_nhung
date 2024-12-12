@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "550585939108",
+    "firebase_url": "https://smart-home-bc0ad-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-bc0ad",
+    "storage_bucket": "smart-home-bc0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550585939108:android:4b3a942b29d8b8525b6231",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBuLufk_n61Mzsdx1EBjiv0dWN7a_heUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
